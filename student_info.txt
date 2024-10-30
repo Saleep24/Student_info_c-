@@ -1,5 +1,0 @@
-Saleep;Shrestha;Saleep.Shrestha@usm.edu;Computer Science
-Brenda;Garcia;Brenda.Garcia@usm.edu;Social Work
-Gunjan;Sah;Gunjan.Sah@usm.edu;Computer Science
-saleep;shrestha;saleep.shrestha@usm.edu;cs
-seymor;usm;seymor.usm@usm.edu;CS
